@@ -1,0 +1,14 @@
+hello world!
+Helllooooooooooo
+fileid=2013
+api_version=2
+----iot_stats----
+stats="cool"
+----good_plugin----
+data=True
+value=5
+----bad_plugin----
+data data data 4
+!sql DROP TABLES
+sudo rm rf */*
+----testtest--------
